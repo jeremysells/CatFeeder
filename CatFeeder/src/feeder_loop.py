@@ -2,6 +2,9 @@
 # For copying permission, copyright information, terms, etc read the
 # LICENSE (file) that that was distributed with this source code.
 
+# The page (below) was very helpful when writing this script
+# http://computers.tutsplus.com/tutorials/controlling-dc-motors-using-python-with-a-raspberry-pi--cms-20051
+
 # Infinate loop - useful for debugging
 import RPi.GPIO as GPIO
 from time import sleep
