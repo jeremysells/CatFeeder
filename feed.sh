@@ -1,2 +1,2 @@
 #!/bin/sh
-python CatFeeder/src/catfeeder.py
+sudo python CatFeeder/src/catfeeder.py
