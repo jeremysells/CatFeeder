@@ -1,2 +1,2 @@
 #!/bin/sh
-python src/catfeeder.py
+python CatFeeder/src/catfeeder.py
